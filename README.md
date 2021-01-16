@@ -19,3 +19,9 @@ This repository just contains some snippets I've written while studying Elixir. 
 3. [Controlflow](controlflow/control_flow.exs)
 4. [Modules](modules/math.ex)
 5. [Recursion](recursion/recursion.exs)
+6. [Enumerables](enumerables/enumerables.exs)
+7. Process
+   1. [Process Introduction](process/process.exs)
+   2. [State holders](process/stateholder.exs)
+8. [I/O](io/io.exs)
+9. [Path](path/path.exs)
