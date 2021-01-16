@@ -28,3 +28,8 @@ false || 1 == 1
 # NOTE: the pin operator is like accessing by value to a certain variable. It is used to pin the value of a certain variable, preventing any value changing
 x = 1
 ^x = 2 # Error
+
+# The pipe operator
+# The pipe operator passes the value on the left of the expression to the function to the right
+# as the first argument
+44 |> div(2) # Makes 22
