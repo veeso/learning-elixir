@@ -30,3 +30,4 @@ This repository just contains some snippets I've written while studying Elixir. 
 12. [Protocols](protocols/protocol.ex)
 13. [Comprehensions](comprehensions/compr.exs)
 14. [Sigills](sigills/sigills.exs)
+15. [Errors](errors/errors.exs)
