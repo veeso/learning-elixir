@@ -5,6 +5,7 @@
 - [Learning Elixir](#learning-elixir)
   - [Premise](#premise)
   - [Base concepts](#base-concepts)
+  - [Introduction to Mix](#introduction-to-mix)
 
 ---
 
@@ -32,3 +33,27 @@ This repository just contains some snippets I've written while studying Elixir. 
 14. [Sigills](core/sigills/sigills.exs)
 15. [Errors](core/errors/errors.exs)
 16. [typedefs](core/typedefs/types.ex)
+
+## Introduction to Mix
+
+Mix is the tool which is used to build, test and organize projects in Elixir.
+
+In this repository I've prepared a Grocery List project, which is located [HERE](grocerylist/README.md)
+
+We can build the project with
+
+```sh
+mix compile
+```
+
+and we can start a `iex` session inside the project running
+
+```sh
+iex -S mix
+```
+
+Mix also generates test units, which can be started:
+
+```sh
+mix test
+```
