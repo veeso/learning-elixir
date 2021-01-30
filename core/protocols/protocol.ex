@@ -1,4 +1,4 @@
-# Protocols are basically interfaces in Elixir
+# Protocols are basically a way to achieve polymorphism in Elixir
 # or trait in Rust
 
 # defmodule Type do
