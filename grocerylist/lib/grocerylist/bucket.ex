@@ -1,4 +1,4 @@
-defmodule GroceryList do
+defmodule GroceryList.Bucket do
   @moduledoc """
   Documentation for `GroceryList`.
   """
